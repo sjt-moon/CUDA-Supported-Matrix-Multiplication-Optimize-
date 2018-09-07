@@ -1,4 +1,7 @@
 # CUDA-Supported Matrix Multiplication Optimization
+
+*The source codes are not included for school policy.*
+
 ## Objective
 We experiment different ideas to hide latency for matrix multiplication. In this project, we designed several block-based models to get a better performance in FLOPs.
 
