@@ -12,6 +12,8 @@ We experiment different ideas to hide latency for matrix multiplication. In this
 ![STMO Model](/pics/stmo-alg.png)
 ### STMVB Model
 ![STMVB Model](/pics/stmvb.png)
+### Performance Plotting
+![Performance](/pics/performance.png)
 
 ## Conclusion
 Based on our experiments, we state that 
